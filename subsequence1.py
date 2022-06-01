@@ -1,5 +1,5 @@
-string1 = "srcte"
-string2 = "structures"
+string1 = "seunc"
+string2 = "subsequence"
 
 def SubSequence(string1, string2, m, n):
     if m == 0:

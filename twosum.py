@@ -1,4 +1,4 @@
-input_list = [2,8,12,15]
+input_list = [2,8,4,7,20]
 target = 27
 def twoSum(nums, target):
       map_dict = {}
