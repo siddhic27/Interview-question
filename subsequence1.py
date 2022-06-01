@@ -1,5 +1,5 @@
-string1 = "seunc"
-string2 = "subsequence"
+string1 = "eko"
+string2 = "desktop"
 
 def SubSequence(string1, string2, m, n):
     if m == 0:
